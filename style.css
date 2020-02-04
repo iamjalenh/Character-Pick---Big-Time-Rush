@@ -1,0 +1,56 @@
+body {
+    padding: 30px 0;
+    text-align: center;
+
+background:#000000;
+}
+
+
+input {
+    border: solid 2px black;
+    font-size: 15px;
+ }
+select{
+    border: solid 2px black;
+    font-size: 15px;
+margin: 0;
+}
+
+button {
+    background:white;
+    color:#000000;
+    border:outset;
+    justify-content:space-between;
+  }
+  
+  
+  .dog{ background:#DF262C;
+   width: 60%;
+  padding: 20px;
+ margin : 0 auto;
+  
+  }
+
+  .monkey{
+border-left: 10px;
+border-left-color:#facf5a ;
+justify-content:center;
+display:center;
+background:    #000000;
+width:         160px;
+height:        44px;
+color:         #ff5959;
+font:          normal bold 24px/44px "Calibri", sans-serif;
+text-align:    center;
+text-shadow:   0px 0px #ff5959;
+display: block;
+ margin : 0 auto;
+ margin-top:20px;
+}
+
+.answer {
+    display: none;
+}
+
+
+.main{width:100%}
